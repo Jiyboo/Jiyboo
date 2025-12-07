@@ -77,7 +77,7 @@ I enjoy turning complex problems into clean and elegant solutions.
 	<summary style="list-style:none; cursor:pointer;">
 </summary>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Dunia!!;Selamat+Datang+di+GitHub+saya!;Saya+Afsal+Maulana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Dunia!;Selamat+Datang+di+GitHub+saya!;Saya+Afsal+Maulana)](https://git.io/typing-svg)
 
 ## 🌟 Tentang Saya
 Saya seorang **Web Developer & Programmer** yang senang membangun website modern, cepat, dan fungsional.  
