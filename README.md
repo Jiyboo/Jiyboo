@@ -3,7 +3,7 @@
 
 # Hi there, I'm Afsal Maulana 👋
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!;I+am+Afsal+Maulana)](https://git.io/typing-svg)-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let%27s+hunt;some+bugs;together!)](https://git.io/typing-svg)
 
 
 ## 🌟 About Me
