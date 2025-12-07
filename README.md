@@ -1,5 +1,5 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQG9MbxUYDCJrw/profile-displaybackgroundimage-shrink_350_1400/B56ZrD9b0jG0AY-/0/1764224254419?e=1766620800&v=beta&t=MxyQx2C09TdSGBH9fzFx_3bDYCD4X6gqiiG8SNkwKRU)
-
+## <span id="english"></span>
 # Hi there, I'm Afsal Maulana 👋
 
 <!-- Tombol Switch Bahasa -->
@@ -15,7 +15,7 @@
 ---
 
 # EN English
-## <span id="english"></span>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!;I+am+Afsal+Maulana)](https://git.io/typing-svg)
 
