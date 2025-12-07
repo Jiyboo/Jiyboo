@@ -36,14 +36,14 @@ I'm a passionate **Web Developer & Programmer** creating modern and functional w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 ![Jiyboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiyboo&show_icons=true&theme=radical&cache_seconds=7200)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=radical&cache_seconds=7200)
 
 ---
-
+-->
 ## 📈 GitHub Activity / Commit Streak
 ![Jiyboo's GitHub Activity](https://streak-stats.demolab.com/?user=Jiyboo&theme=radical)
 
