@@ -75,8 +75,6 @@ I enjoy turning complex problems into clean and elegant solutions.
 <details>
 	<summary style="list-style:none; cursor:pointer;">
 </summary>
-
-<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Semua!;Selamat+Datang+di+GitHub+saya!;Saya+Afsal+Maulana)](https://git.io/typing-svg)
 
 ## 🌟 Tentang Saya
