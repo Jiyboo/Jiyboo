@@ -15,7 +15,7 @@
 
 ---
 
-# 🇬🇧 English
+# EN English
 ## <span id="english"></span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!;I+am+Afsal+Maulana)](https://git.io/typing-svg)
@@ -69,7 +69,7 @@ I enjoy turning complex problems into clean and elegant solutions.
 
 ---
 
-# 🇮🇩 Bahasa Indonesia
+# ID Bahasa Indonesia
 ## <span id="bahasa-indonesia"></span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Semua!;Selamat+Datang+di+GitHub+saya!;Saya+Afsal+Maulana)](https://git.io/typing-svg)
