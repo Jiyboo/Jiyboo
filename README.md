@@ -8,15 +8,15 @@
   <a href="#english" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/English-000?style=for-the-badge" />
   </a>
-  <a href="#bahasa-indonesia" style="text-decoration:none;">
+  <a href="#indonesia" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Indonesia-E10000?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-# EN English
-## <span id="english"></span>
+# 🇬🇧 English Version
+<span id="english"></span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!;I+am+Afsal+Maulana)](https://git.io/typing-svg)
 
@@ -58,8 +58,8 @@ I enjoy turning complex problems into clean and elegant solutions.
 ---
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyboo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://afslm.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyboo)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://afslm.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsalonline01@gmail.com)
 
 ---
@@ -69,8 +69,13 @@ I enjoy turning complex problems into clean and elegant solutions.
 
 ---
 
-# ID Bahasa Indonesia
-## <span id="bahasa-indonesia"></span>
+# 🇮🇩 Bahasa Indonesia
+<span id="indonesia"></span>
+
+<details>
+<summary><h2>Klik untuk membuka versi Bahasa Indonesia 🇮🇩</h2></summary>
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Semua!;Selamat+Datang+di+GitHub+saya!;Saya+Afsal+Maulana)](https://git.io/typing-svg)
 
@@ -96,7 +101,7 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ---
 
 ## 🛠 Skill & Tools
-(Sama seperti versi Inggris – badges tetap muncul)
+(Sama seperti versi Inggris – badge tetap tampil)
 
 ---
 
@@ -106,14 +111,18 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ---
 
 ## 📫 Hubungi Saya
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyboo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://afslm.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsalonline01@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyboo)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://afslm.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsalonline01@gmail.com)
 
 ---
 
 ## 💬 Kutipan Seru
 *"Aku tidak percaya cinta pada pandangan pertama… sampai programku jalan tanpa error."* 😆
+
+<br>
+
+</details>
 
 ---
 
