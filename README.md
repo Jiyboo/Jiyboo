@@ -71,8 +71,9 @@ I enjoy turning complex problems into clean and elegant solutions.
 
 
 # ID Bahasa Indonesia
+<span id="bahasa-indonesia"></span>
 <details>
-## <span id="bahasa-indonesia"></span>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Semua!;Selamat+Datang+di+GitHub+saya!;Saya+Afsal+Maulana)](https://git.io/typing-svg)
 
