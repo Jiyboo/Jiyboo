@@ -2,7 +2,6 @@
 ## <span id="english"></span>
 # Hi there, I'm Afsal Maulana 👋
 
-<!-- Tombol Switch Bahasa -->
 <p align="center">
   <a href="#english" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/English-000?style=for-the-badge" />
