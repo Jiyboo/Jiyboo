@@ -34,9 +34,9 @@ I enjoy turning complex problems into clean and elegant solutions.
 ## 💼 Portfolio Highlights
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Parking System** | Fully functional parking management app | Java, MySQL, Swing |
+| **Parking System** | Fully functional parking management app | JavaScript, MySQL, CSS |
 | **Personal Portfolio Website** | Clean and responsive portfolio | HTML, CSS, JavaScript |
-| **Inventory Management System** | Web-based item tracking system | PHP, MySQL |
+| **Warehouse Management Application** | A desktop application designed for comprehensive goods and inventory management | PHP, MySQL |
 
 ---
 
@@ -94,9 +94,9 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ## 💼 Highlight Project
 | Project | Deskripsi | Teknologi |
 |---------|-----------|-----------|
-| **Parking System** | Aplikasi pengelolaan parkir lengkap | Java, MySQL, Swing |
+| **Parking System** | Aplikasi pengelolaan parkir lengkap | JavaScript, MySQL, CSS |
 | **Personal Portfolio Website** | Website portofolio modern & responsif | HTML, CSS, JavaScript |
-| **Inventory Management System** | Sistem web untuk manajemen inventaris | PHP, MySQL |
+| **Warehouse Management Application** | Sistem Aplikasi deesktop untuk manajemen barang | PHP, MySQL |
 
 ---
 
