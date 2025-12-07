@@ -36,7 +36,7 @@ I enjoy turning complex problems into clean and elegant solutions.
 |---------|-------------|------------|
 | **Parking System** | Fully functional parking management app | JavaScript, MySQL, CSS |
 | **Personal Portfolio Website** | Clean and responsive portfolio | HTML, CSS, JavaScript |
-| **Warehouse Management Application** | A desktop application designed for comprehensive goods and inventory management | PHP, MySQL |
+| **Warehouse Management Application** | A desktop application designed for comprehensive goods and inventory management | Java, MySQL |
 
 ---
 
@@ -96,7 +96,7 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 |---------|-----------|-----------|
 | **Parking System** | Aplikasi pengelolaan parkir lengkap | JavaScript, MySQL, CSS |
 | **Personal Portfolio Website** | Website portofolio modern & responsif | HTML, CSS, JavaScript |
-| **Warehouse Management Application** | Sistem Aplikasi deesktop untuk manajemen barang | PHP, MySQL |
+| **Warehouse Management Application** | Sistem Aplikasi deesktop untuk manajemen barang | Java, MySQL |
 
 ---
 
