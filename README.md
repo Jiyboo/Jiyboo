@@ -37,8 +37,11 @@ I'm a passionate **Web Developer & Programmer** creating modern and functional w
 ---
 
 ## 📊 GitHub Stats
-![Jiyboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiyboo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=radical)
+![Jiyboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiyboo&show_icons=true&theme=radical&cache_seconds=7200
+)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=radical&cache_seconds=7200
+)
 
 
 ---
