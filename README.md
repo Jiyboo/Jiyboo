@@ -57,7 +57,7 @@ I'm a passionate **Web Developer & Programmer** creating modern and functional w
 ---
 
 ## 💬 Fun Quote
-*"Code is like humor. When you have to explain it, it’s bad."* 😄
+*"I never believed in love at first sight… until my program ran with zero errors."* 😄
 
 ---
 
