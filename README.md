@@ -61,4 +61,4 @@ I'm a passionate **Web Developer & Programmer** creating modern and functional w
 
 ---
 
-**Let's build something amazing together! 🚀**
+**Let's hunt some bugs together! 🚀**
