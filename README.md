@@ -51,7 +51,7 @@ I enjoy turning complex problems into clean and elegant solutions.
 ---
 
 ## 📈 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Jiyboo&theme=dark)
+![Jiyboo's GitHub Activity](https://streak-stats.demolab.com?user=Jiyboo&theme=dark)
 
 ---
 ## 🌍 Top Language
@@ -115,7 +115,7 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ---
 
 ## 📈 Aktivitas GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=Jiyboo&theme=dark&locale=id)
+![Jiyboo's GitHub Activity](https://streak-stats.demolab.com?user=Jiyboo&theme=dark&locale=id)
 ---
 ## 🌍 Top Bahasa
 ![Top Langs](https://gh-readme-stats-psi.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=dark)
