@@ -51,7 +51,7 @@ I enjoy turning complex problems into clean and elegant solutions.
 ---
 
 ## 📈 GitHub Activity
-![Jiyboo's GitHub Activity](https://streak-stats.demolab.com/?user=Jiyboo&theme=radical)
+![Jiyboo's GitHub Activity](https://streak-stats.demolab.com/?user=Jiyboo&theme=dark&short_numbers=true)
 
 ---
 
