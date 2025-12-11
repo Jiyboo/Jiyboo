@@ -51,7 +51,7 @@ I enjoy turning complex problems into clean and elegant solutions.
 ---
 
 ## 📈 GitHub Activity
-[![Jiyboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyboo)]
+![Jiyboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyboo)
 ---
 ## 🌍 Top Language
 ![Top Langs](https://gh-readme-stats-psi.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=dark)
@@ -114,7 +114,7 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ---
 
 ## 📈 Aktivitas GitHub
-[![Jiyboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyboo)]
+![Jiyboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyboo)
 ---
 ## 🌍 Top Bahasa
 ![Top Langs](https://gh-readme-stats-psi.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=dark)
