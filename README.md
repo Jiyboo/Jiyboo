@@ -51,7 +51,12 @@ I enjoy turning complex problems into clean and elegant solutions.
 ---
 
 ## 📈 GitHub Activity
-![GitHub Activity](https://streak-stats-uriel.vercel.app/?user=Jiyboo&theme=dark&hide_border=true)
+
+![GitHub Activity](https://streak-stats.demolab.com?user=Jiyboo&theme=dark)
+
+
+![GitHub Activity Fallback](https://streak-stats-uriel.vercel.app/?user=Jiyboo&theme=dark&hide_border=true)
+
 
 ---
 ## 🌍 Top Language
@@ -115,7 +120,10 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ---
 
 ## 📈 Aktivitas GitHub
-![GitHub Activity](https://streak-stats-uriel.vercel.app/?user=Jiyboo&theme=dark&hide_border=true)
+![GitHub Activity](https://streak-stats.demolab.com?user=Jiyboo&theme=dark)
+
+
+![GitHub Activity Fallback](https://streak-stats-uriel.vercel.app/?user=Jiyboo&theme=dark&hide_border=true)
 
 ---
 ## 🌍 Top Bahasa
