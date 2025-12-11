@@ -111,7 +111,7 @@ Saya suka mengubah masalah rumit menjadi solusi yang rapi serta mudah digunakan.
 ---
 
 ## 📈 Aktivitas GitHub
-![Jiyboo's GitHub Activity](https://streak-stats.demolab.com?user=Jiyboo&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jiyboo&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ## 📫 Hubungi Saya
