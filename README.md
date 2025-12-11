@@ -54,6 +54,10 @@ I enjoy turning complex problems into clean and elegant solutions.
 ![Jiyboo's GitHub Activity](https://streak-stats.demolab.com/?user=Jiyboo&theme=dark&short_numbers=true)
 
 ---
+## 📈 Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyboo&layout=compact&theme=dark)
+
+---
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyboo)
