@@ -16,7 +16,7 @@
 # EN English
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!;I+am+Afsal+Maulana)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!;I+am+Afsal+Maulana)
 
 ## 🌟 About Me
 I'm a passionate **Web Developer & Programmer** who loves creating modern and functional websites.  
