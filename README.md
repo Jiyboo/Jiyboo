@@ -6,8 +6,8 @@
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jiyboo&utm_content=farm">
     <img
     src="https://render.gitanimals.org/farms/Jiyboo"
-    width="600"
-    height="120"/>
+    width="700"
+    height="150"/>
   </a>
   <br>
   <a href="#english" style="text-decoration:none;">
