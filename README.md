@@ -3,12 +3,15 @@
 # Hi there, I'm Afsal Maulana 👋
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jiyboo&utm_content=farm">
-    <img
-    src="https://render.gitanimals.org/farms/Jiyboo"
+  
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jiyboo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Jiyboo"
     width="750"
-    height="120"/>
-  </a>
+    height="120"
+  />
+</a>
+  
   <br>
   <a href="#english" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/English-000?style=for-the-badge" />
